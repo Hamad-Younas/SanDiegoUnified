@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SanDiegoUnified", "SanDiegoUnified\SanDiegoUnified.csproj", "{1652D8F1-D3ED-40E5-B57B-88EB6B1FA911}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Onedrive Migration Tool", "Onedrive Migration Tool\Onedrive Migration Tool.vdproj", "{EF5F5C76-9732-4612-9242-5B08B224C533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1652D8F1-D3ED-40E5-B57B-88EB6B1FA911}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1652D8F1-D3ED-40E5-B57B-88EB6B1FA911}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1652D8F1-D3ED-40E5-B57B-88EB6B1FA911}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1652D8F1-D3ED-40E5-B57B-88EB6B1FA911}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF5F5C76-9732-4612-9242-5B08B224C533}.Debug|Any CPU.ActiveCfg = Debug
+		{EF5F5C76-9732-4612-9242-5B08B224C533}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B07BA06-AA22-4769-B34E-CF9A5E43A876}
+	EndGlobalSection
+EndGlobal
